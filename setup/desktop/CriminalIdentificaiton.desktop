@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Intelligent Criminal Investigation Tracking
+Name[en_US]=Intelligent Criminal Investigation Tracking
+Name[zh_CN]=智能刑侦追踪
+Exec=python3  -c  "import face_recognize_demo.track_recognition_demo as demo;demo.track_recognition_main()"
+Terminal=false
+Type=Application
+StartupNotify=true
+Icon=/usr/local/UBTTools/images/ai_paradise/Criminal.png
+Categories=GNOME;Education;

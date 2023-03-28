@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Dialog</class>
+ <widget class="QDialog" name="Dialog">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>626</width>
+    <height>220</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Dialog</string>
+  </property>
+  <layout class="QVBoxLayout" name="verticalLayout">
+   <property name="spacing">
+    <number>0</number>
+   </property>
+   <property name="leftMargin">
+    <number>0</number>
+   </property>
+   <property name="topMargin">
+    <number>0</number>
+   </property>
+   <property name="rightMargin">
+    <number>0</number>
+   </property>
+   <property name="bottomMargin">
+    <number>0</number>
+   </property>
+   <item>
+    <layout class="QHBoxLayout" name="horizontalLayout">
+     <property name="spacing">
+      <number>0</number>
+     </property>
+     <property name="leftMargin">
+      <number>29</number>
+     </property>
+     <property name="topMargin">
+      <number>48</number>
+     </property>
+     <property name="rightMargin">
+      <number>29</number>
+     </property>
+     <property name="bottomMargin">
+      <number>48</number>
+     </property>
+     <item alignment="Qt::AlignHCenter">
+      <widget class="QLabel" name="label">
+       <property name="styleSheet">
+        <string notr="true">font-family: SourceHanSansCN-Bold;
+font-size: 28px;
+color: #141A30;
+text-align: center;
+line-height: 48px;
+background: transparent;</string>
+       </property>
+       <property name="text">
+        <string>清空人脸信息将不可找回，确定要全部清空吗？</string>
+       </property>
+      </widget>
+     </item>
+    </layout>
+   </item>
+   <item>
+    <layout class="QHBoxLayout" name="horizontalLayout_2">
+     <property name="spacing">
+      <number>50</number>
+     </property>
+     <property name="bottomMargin">
+      <number>30</number>
+     </property>
+     <item alignment="Qt::AlignRight">
+      <widget class="QPushButton" name="pb_cancel">
+       <property name="minimumSize">
+        <size>
+         <width>200</width>
+         <height>80</height>
+        </size>
+       </property>
+       <property name="styleSheet">
+        <string notr="true">background: #4F5A7E;
+border-radius: 8px;
+border-radius: 8px;
+font-family: SourceHanSansCN-Bold;
+font-size: 28px;
+color: #FFFFFF;
+text-align: center;
+line-height: 48px;</string>
+       </property>
+       <property name="text">
+        <string>取消</string>
+       </property>
+      </widget>
+     </item>
+     <item alignment="Qt::AlignLeft">
+      <widget class="QPushButton" name="pb_ok">
+       <property name="minimumSize">
+        <size>
+         <width>200</width>
+         <height>80</height>
+        </size>
+       </property>
+       <property name="styleSheet">
+        <string notr="true">background: #FF9584;
+border-radius: 8px;
+border-radius: 8px;
+font-family: SourceHanSansCN-Bold;
+font-size: 28px;
+color: #FFFFFF;
+text-align: center;
+line-height: 48px;</string>
+       </property>
+       <property name="text">
+        <string>全部清空</string>
+       </property>
+      </widget>
+     </item>
+    </layout>
+   </item>
+  </layout>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

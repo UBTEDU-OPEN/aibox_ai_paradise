@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>alert_win</class>
+ <widget class="QWidget" name="alert_win">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1920</width>
+    <height>1080</height>
+   </rect>
+  </property>
+  <property name="sizePolicy">
+   <sizepolicy hsizetype="Preferred" vsizetype="Preferred">
+    <horstretch>0</horstretch>
+    <verstretch>0</verstretch>
+   </sizepolicy>
+  </property>
+  <property name="windowTitle">
+   <string/>
+  </property>
+  <layout class="QVBoxLayout" name="verticalLayout" stretch="0">
+   <property name="spacing">
+    <number>0</number>
+   </property>
+   <property name="leftMargin">
+    <number>0</number>
+   </property>
+   <property name="topMargin">
+    <number>0</number>
+   </property>
+   <property name="rightMargin">
+    <number>0</number>
+   </property>
+   <property name="bottomMargin">
+    <number>0</number>
+   </property>
+   <item>
+    <widget class="QWidget" name="alert_root" native="true">
+     <property name="styleSheet">
+      <string notr="true">background: #CC141A30;</string>
+     </property>
+     <layout class="QHBoxLayout" name="root_layout">
+      <item>
+       <widget class="QWidget" name="alert_parent" native="true">
+        <property name="minimumSize">
+         <size>
+          <width>468</width>
+          <height>180</height>
+         </size>
+        </property>
+        <property name="maximumSize">
+         <size>
+          <width>468</width>
+          <height>214</height>
+         </size>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">background: #FFFFFF;
+border-radius: 8px;</string>
+        </property>
+        <layout class="QVBoxLayout" name="verticalLayout_2">
+         <item>
+          <widget class="QWidget" name="horizontalWidget" native="true">
+           <layout class="QHBoxLayout" name="horizontalLayout_2">
+            <item alignment="Qt::AlignHCenter|Qt::AlignVCenter">
+             <widget class="QLabel" name="title">
+              <property name="styleSheet">
+               <string notr="true">font-family: Source Han Sans CN;
+font-weight: bold;
+font-size: 24px;
+color: #141A30;
+text-align: center;</string>
+              </property>
+              <property name="text">
+               <string/>
+              </property>
+              <property name="alignment">
+               <set>Qt::AlignCenter</set>
+              </property>
+             </widget>
+            </item>
+           </layout>
+          </widget>
+         </item>
+         <item alignment="Qt::AlignVCenter">
+          <widget class="QWidget" name="horizontalWidget" native="true">
+           <property name="maximumSize">
+            <size>
+             <width>16777215</width>
+             <height>16777215</height>
+            </size>
+           </property>
+           <layout class="QHBoxLayout" name="horizontalLayout">
+            <property name="spacing">
+             <number>30</number>
+            </property>
+            <item alignment="Qt::AlignHCenter|Qt::AlignTop">
+             <widget class="QPushButton" name="pb_sure">
+              <property name="minimumSize">
+               <size>
+                <width>120</width>
+                <height>50</height>
+               </size>
+              </property>
+              <property name="maximumSize">
+               <size>
+                <width>120</width>
+                <height>50</height>
+               </size>
+              </property>
+              <property name="styleSheet">
+               <string notr="true">background: #9189FE;
+border-radius: 8px;
+font-family: Source Han Sans CN;
+font-weight: bold;
+font-size: 20px;
+color: #FFFFFF;
+text-align: center;
+line-height: 48px;</string>
+              </property>
+              <property name="text">
+               <string/>
+              </property>
+             </widget>
+            </item>
+           </layout>
+          </widget>
+         </item>
+        </layout>
+       </widget>
+      </item>
+     </layout>
+    </widget>
+   </item>
+  </layout>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

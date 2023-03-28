@@ -1,0 +1,100 @@
+QLabel#card_icon{
+    margin-top:50px;
+}
+QLabel#top_title{
+    font-family: Source Han Sans CN;
+    font-weight: bold;
+    font-size: 36px;
+    color: #FFFFFF;
+    line-height: 48px;
+}
+QLabel#sub_title{
+    font-family: Source Han Sans CN;
+    font-weight: normal;
+    font-size: 18px;
+    color: #787A93;
+    margin-top:20px;
+    line-height: 20px;
+    padding-bottom:2px;
+}
+QLabel#mot_txt{
+    font-family: Source Han Sans CN;
+    font-weight: normal;
+    font-size: 14px;
+    color: #BFCAFE;
+    margin-top:20px;
+    line-height: 20px;
+    padding-bottom:2px;
+}
+QWidget#dev_guide{
+    background-color:#665B6995;
+    border-radius: 8px;
+}
+QLabel#guide_tip{
+    font-family: Source Han Sans CN;
+    font-weight: normal;
+    font-size: 14px;
+    color:#FFFFFF;
+    line-height: 24px;
+}
+
+QLabel#load_txt{
+    font-family: Source Han Sans CN;
+    font-weight: normal;
+    font-size: 24px;
+    color:#FFFFFF;
+    line-height: 48px;
+}
+
+QWidget#page_def{
+    background-color:#665B6995;
+    border-radius: 8px;
+}
+QWidget#line{
+    margin-top:80px;
+}
+
+QLabel#dev_title{
+    font-family: Source Han Sans CN;
+    font-weight: normal;
+    font-size: 18px;
+    color: #FFFFFF;
+    line-height: 48px;
+}
+
+QLabel#device_item_sn{
+    font-family: Source Han Sans CN;
+    font-weight: normal;
+    font-size: 14px;
+    color: #A0ADD0;
+}
+
+QLabel#mot_tit{
+    font-family: Source Han Sans CN;
+    font-weight: normal;
+    font-size: 18px;
+    color: #FFFFFF;
+    line-height: 48px;
+}
+QLabel#mot_title{
+    font-family: Source Han Sans CN;
+    font-weight: normal;
+    font-size: 18px;
+    color: #FFFFFF;
+    line-height: 48px;
+}
+
+QLabel#mot_count{
+    font-family: Source Han Sans CN;
+    font-weight: bold;
+    font-size: 70px;
+    color: #00FFFE;
+    line-height: 48px;
+}
+
+QLabel#btn_close{
+    width: 42px;
+    height: 42px;
+    margin-right:60px;
+    margin-top:60px;
+}

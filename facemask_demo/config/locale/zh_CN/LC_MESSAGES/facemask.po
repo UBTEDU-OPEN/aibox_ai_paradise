@@ -1,0 +1,92 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR 2020 - 2020 Ubtech Robotics Corp
+# This file is distributed under the same license as the facemask package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: facemask V1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-09-08 11:16+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: /home/oneai/test/ai_application/facemask_demo/view/facemask_confidence_widget.py:91
+msgid "k_confidence_title"
+msgstr "置信度设置"
+
+#: /home/oneai/test/ai_application/facemask_demo/view/facemask_container_widget.py:126
+msgid "k_unware_record"
+msgstr "未戴口罩登记"
+
+#: /home/oneai/test/ai_application/facemask_demo/view/facemask_counter_widget.py:34
+msgid "k_count_title"
+msgstr "数量统计"
+
+#: /home/oneai/test/ai_application/facemask_demo/view/facemask_counter_widget.py:35
+msgid "k_count_desc"
+msgstr "当前画面内"
+
+#: /home/oneai/test/ai_application/facemask_demo/view/facemask_counter_widget.py:37
+msgid "k_count_ware"
+msgstr "已戴口罩人数"
+
+#: /home/oneai/test/ai_application/facemask_demo/view/facemask_counter_widget.py:38
+msgid "k_count_unware"
+msgstr "未戴口罩人数"
+
+#: /home/oneai/test/ai_application/facemask_demo/view/facemask_title_widget.py:38
+msgid "k_title"
+msgstr "智能门卫"
+
+#: /home/oneai/test/ai_application/facemask_demo/view/facemask_title_widget.py:39
+msgid "k_title_desc"
+msgstr "智能门卫是基于人脸口罩识别算法已完成预训练后的模型，能准确检测出戴口罩和未戴口罩的人脸。"
+
+#. def __init__(self, image, result, confidence = 90, text = ('已戴口罩', '未戴口罩'), path = '.'):
+#. """类初始化
+#.
+#. Args:
+#. image (array): 图片
+#. result (list): 推理结果
+#. text (tuple, optional): 图片文本信息. 默认值 ('已戴口罩', '未戴口罩').
+#. path (str, optional): 素材路径. 默认值 './'.
+#. """
+#. self.confidence = confidence
+#. self.src_img = image
+#. self.inference_data = result
+#. self.img_text = text
+#. self.ui_path = path
+#. self.ui_file = ('img_recognize_green.png', 'img_recognize_red.png')
+#. self.font = 'simsun.ttc'
+#: /home/oneai/test/ai_application/facemask_demo/module/inference/face_mask_inference.py:43
+msgid "k_ware_title"
+msgstr "已戴口罩"
+
+#: /home/oneai/test/ai_application/facemask_demo/module/inference/face_mask_inference.py:43
+msgid "k_unware_title"
+msgstr "未戴口罩"
+
+msgid "k_cancel"
+msgstr "取消"
+
+msgid "k_reload"
+msgstr "重新加载"
+
+msgid "k_camera_error"
+msgstr "摄像头异常,请检查是否连接摄像头以及摄像头是否被其他应用占用"
+
+msgid "k_quit_title"
+msgstr "确定要退出吗？"
+
+msgid "k_quit"
+msgstr "退出"
+
+msgid "k_voice_name"
+msgstr "请戴好口罩"

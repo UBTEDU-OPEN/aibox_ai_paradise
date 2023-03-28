@@ -1,0 +1,20 @@
+.QLabel#threshold_text_label {
+    font-family: SourceHanSansCN-Bold;
+    font-size: 32px;
+    color: #FFFFFF;
+    line-height: 48px;
+}
+
+.QLabel#info_icon_label {
+    width: 32px;
+    height: 32px;
+    opacity: 0.5;
+    border-image: url(resource/ic_info.png)
+}
+
+QDialog {
+    background: #FFFFFF;
+    border-radius: 8px;
+    border-radius: 8px;
+}
+

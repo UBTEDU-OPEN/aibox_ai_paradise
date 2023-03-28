@@ -1,0 +1,43 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: onboard\n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: 2021-05-24 14:13+0800\n"
+"Last-Translator: Francesco Fumanti <Unknown>\n"
+"Language-Team: Chinese (Simplified) <zh_CN@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2017-02-14 14:04+0000\n"
+"X-Generator: Poedit 2.4.2\n"
+
+msgid "style2"
+msgstr "湖光山色"
+
+msgid "style3"
+msgstr "激流险峰"
+
+msgid "style4"
+msgstr "万山叠翠"
+
+msgid "style5"
+msgstr "崇山峻岭"
+
+msgid "style6"
+msgstr "璀璨星空"
+
+msgid "style8"
+msgstr "碧海蓝天"
+
+msgid "style12"
+msgstr "浩瀚戈壁"
+
+msgid "style10"
+msgstr "花海荡漾"
+
+msgid "style11"
+msgstr "大漠无疆"
+
+msgid "style13"
+msgstr "青青草地"

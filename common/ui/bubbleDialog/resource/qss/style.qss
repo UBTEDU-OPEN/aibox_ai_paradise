@@ -1,0 +1,9 @@
+QLabel#content{
+    font-family: Source Han Sans CN;
+    font-weight: normal;
+    font-size: 18px;
+    color: #787A93;
+    padding-left: 16px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}

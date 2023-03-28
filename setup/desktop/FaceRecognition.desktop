@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Unconscious Face Clock-in
+Name[en_US]=Unconscious Face Clock-in
+Name[zh_CN]=无感人脸打卡
+Exec=python3  -c  "import face_recognize_demo.face_recognition_demo as demo;demo.facerecognition_main()"
+Terminal=false
+Type=Application
+StartupNotify=true
+Icon=/usr/local/UBTTools/images/ai_paradise/FaceRecognize.png
+Categories=GNOME;Education;

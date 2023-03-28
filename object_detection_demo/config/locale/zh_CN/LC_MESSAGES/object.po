@@ -1,0 +1,269 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: onboard\n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: 2021-05-24 14:13+0800\n"
+"Last-Translator: Francesco Fumanti <Unknown>\n"
+"Language-Team: Chinese (Simplified) <zh_CN@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2017-02-14 14:04+0000\n"
+"X-Generator: Poedit 2.4.2\n"
+
+msgid "inventory_desc"
+msgstr "盘点情况"
+
+msgid "select_inventory"
+msgstr "选择盘点物品"
+
+msgid "sub_title"
+msgstr "智能盘点功能基于物体识别算法，可以识别多种物品并进行数量统计。"
+
+msgid "threshold_setting"
+msgstr "置信度设置"
+
+msgid "title"
+msgstr "智能盘点"
+
+
+msgid "power bank"
+msgstr "充电宝"
+
+msgid "charger"
+msgstr "充电器"
+
+msgid "computer keyboard"
+msgstr "电脑键盘"
+
+msgid "computer mouse"
+msgstr "电脑鼠标"
+
+msgid "computer monitor"
+msgstr "电脑显示器"
+
+msgid "qt code"
+msgstr "二维码"
+
+msgid "dog"
+msgstr "狗"
+
+msgid "dragonfly"
+msgstr "蜻蜓"
+
+msgid "rabbit"
+msgstr "兔子"
+
+msgid "duck"
+msgstr "鸭"
+
+msgid "crab"
+msgstr "蟹"
+
+msgid "chlorophytum comosum"
+msgstr "吊兰"
+
+msgid "rose"
+msgstr "玫瑰"
+
+msgid "celestial being"
+msgstr "仙人球"
+
+msgid "cup"
+msgstr "杯子"
+
+msgid "fork"
+msgstr "叉"
+
+msgid "teapot"
+msgstr "茶壶"
+
+msgid "spoon"
+msgstr "勺子"
+
+msgid "bowl"
+msgstr "碗"
+
+msgid "stool"
+msgstr "凳子"
+
+msgid "wall clock"
+msgstr "挂钟"
+
+msgid "scissors"
+msgstr "剪刀"
+
+msgid "bottle"
+msgstr "瓶子"
+
+msgid "umbrella"
+msgstr "伞"
+
+msgid "toothbrush"
+msgstr "牙刷"
+
+msgid "pillow"
+msgstr "枕头"
+
+msgid "watch"
+msgstr "手表"
+
+msgid "backpack"
+msgstr "双肩包"
+
+msgid "sunglasses"
+msgstr "太阳镜"
+
+msgid "glasses"
+msgstr "眼镜"
+
+msgid "airplane"
+msgstr "飞机"
+
+msgid "train"
+msgstr "火车"
+
+msgid "truck"
+msgstr "卡车"
+
+msgid "motorcycle"
+msgstr "摩托车"
+
+msgid "helicopter"
+msgstr "直升机"
+
+msgid "bicycle"
+msgstr "自行车"
+
+msgid "guitar"
+msgstr "吉他"
+
+msgid "lipstick"
+msgstr "口红"
+
+msgid "hand"
+msgstr "手掌"
+
+msgid "popcorn"
+msgstr "爆米花"
+
+msgid "strawberry"
+msgstr "草莓"
+
+msgid "orange"
+msgstr "橙子"
+
+msgid "cake"
+msgstr "蛋糕"
+
+msgid "tart"
+msgstr "蛋挞"
+
+msgid "hamimelon"
+msgstr "哈密瓜"
+
+msgid "hamburger"
+msgstr "汉堡"
+
+msgid "pitaya"
+msgstr "火龙果"
+
+msgid "egg"
+msgstr "鸡蛋"
+
+msgid "litchi"
+msgstr "荔枝"
+
+msgid "durian"
+msgstr "榴莲"
+
+msgid "mango"
+msgstr "芒果"
+
+msgid "kiwifruit"
+msgstr "猕猴桃"
+
+msgid "lemon"
+msgstr "柠檬"
+
+msgid "pizza"
+msgstr "披萨"
+
+msgid "apple"
+msgstr "苹果"
+
+msgid "grape"
+msgstr "葡萄"
+
+msgid "mangosteen"
+msgstr "山竹"
+
+msgid "pomegranate"
+msgstr "石榴"
+
+msgid "peach"
+msgstr "桃子"
+
+msgid "doughnut"
+msgstr "甜甜圈"
+
+msgid "watermelon"
+msgstr "西瓜"
+
+msgid "banana"
+msgstr "香蕉"
+
+msgid "red bayberry"
+msgstr "杨梅"
+
+msgid "coconut"
+msgstr "椰子"
+
+msgid "french fries"
+msgstr "炸薯条"
+
+msgid "tomato"
+msgstr "番茄"
+
+msgid "kite"
+msgstr "风筝"
+
+msgid "cube"
+msgstr "魔方"
+
+msgid "balloon"
+msgstr "气球"
+
+msgid "dice"
+msgstr "骰子"
+
+msgid "whiteboard"
+msgstr "白板"
+
+msgid "ruler"
+msgstr "尺子"
+
+msgid "stapler"
+msgstr "订书机"
+
+msgid "calculator"
+msgstr "计算器"
+
+msgid "business card"
+msgstr "名片"
+
+msgid "golf ball"
+msgstr "高尔夫球"
+
+msgid "basketball"
+msgstr "篮球"
+
+msgid "treadmill"
+msgstr "跑步机"
+
+msgid "table tennis racket"
+msgstr "乒乓球拍"
+
+msgid "tennis racket"
+msgstr "网球拍"

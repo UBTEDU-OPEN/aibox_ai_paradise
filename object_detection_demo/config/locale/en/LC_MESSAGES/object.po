@@ -1,0 +1,269 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: onboard\n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: 2021-05-24 14:13+0800\n"
+"Last-Translator: Francesco Fumanti <Unknown>\n"
+"Language-Team: English <zh_CN@li.org>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2017-02-14 14:04+0000\n"
+"X-Generator: Poedit 2.4.2\n"
+
+msgid "title"
+msgstr "Intelligent Inventory"
+
+msgid "sub_title"
+msgstr "The intelligent inventory function is based on the object recognition algorithm, and can recognize a variety of items and provide quantity statistics."
+
+msgid "inventory_desc"
+msgstr "Inventory Info"
+
+msgid "threshold_setting"
+msgstr "Confidence Settings"
+
+msgid "select_inventory"
+msgstr "Select Inventory Items"
+
+msgid "power bank"
+msgstr "Power bank"
+
+msgid "charger"
+msgstr "Charger"
+
+msgid "computer keyboard"
+msgstr "Keyboard"
+
+msgid "computer mouse"
+msgstr "Mouse"
+
+msgid "computer monitor"
+msgstr "Monitor"
+
+msgid "qt code"
+msgstr "QR code"
+
+msgid "dog"
+msgstr "Dog"
+
+msgid "dragonfly"
+msgstr "Dragonfly"
+
+msgid "rabbit"
+msgstr "Rabbit"
+
+msgid "duck"
+msgstr "Duck"
+
+msgid "crab"
+msgstr "Crab"
+
+msgid "chlorophytum comosum"
+msgstr "Chlorophytum"
+
+msgid "rose"
+msgstr "Rose"
+
+msgid "celestial being"
+msgstr "Cactus"
+
+msgid "cup"
+msgstr "Cup"
+
+msgid "fork"
+msgstr "Fork"
+
+msgid "teapot"
+msgstr "Teapot"
+
+msgid "spoon"
+msgstr "Spoon"
+
+msgid "bowl"
+msgstr "Bowl"
+
+msgid "stool"
+msgstr "Stool"
+
+msgid "wall clock"
+msgstr "Wall clock"
+
+msgid "scissors"
+msgstr "Scissors"
+
+msgid "bottle"
+msgstr "Bottle"
+
+msgid "umbrella"
+msgstr "Umbrella"
+
+msgid "toothbrush"
+msgstr "Toothbrush"
+
+msgid "pillow"
+msgstr "Pillow"
+
+msgid "watch"
+msgstr "Wrist watch"
+
+msgid "backpack"
+msgstr "Backpack"
+
+msgid "sunglasses"
+msgstr "Sunglasses"
+
+msgid "glasses"
+msgstr "Glasses"
+
+msgid "airplane"
+msgstr "Airplane"
+
+msgid "train"
+msgstr "Train"
+
+msgid "truck"
+msgstr "Truck"
+
+msgid "motorcycle"
+msgstr "Motorcycle"
+
+msgid "helicopter"
+msgstr "Helicopter"
+
+msgid "bicycle"
+msgstr "Bicycle"
+
+msgid "guitar"
+msgstr "Guitar"
+
+msgid "lipstick"
+msgstr "Lipstick"
+
+msgid "hand"
+msgstr "Palm"
+
+msgid "popcorn"
+msgstr "Popcorn"
+
+msgid "strawberry"
+msgstr "Strawberry"
+
+msgid "orange"
+msgstr "Orange"
+
+msgid "cake"
+msgstr "Cake"
+
+msgid "tart"
+msgstr "Egg tart"
+
+msgid "hamimelon"
+msgstr "Hami melon"
+
+msgid "hamburger"
+msgstr "Hamburger"
+
+msgid "pitaya"
+msgstr "Pitaya"
+
+msgid "egg"
+msgstr "Egg"
+
+msgid "litchi"
+msgstr "Litchi"
+
+msgid "durian"
+msgstr "Durian"
+
+msgid "mango"
+msgstr "Mango"
+
+msgid "kiwifruit"
+msgstr "Kiwifruit"
+
+msgid "lemon"
+msgstr "Lemon"
+
+msgid "pizza"
+msgstr "Pizza"
+
+msgid "apple"
+msgstr "Apple"
+
+msgid "grape"
+msgstr "Grape"
+
+msgid "mangosteen"
+msgstr "Mangosteen"
+
+msgid "pomegranate"
+msgstr "Pomegranate"
+
+msgid "peach"
+msgstr "Peach"
+
+msgid "doughnut"
+msgstr "Donut"
+
+msgid "watermelon"
+msgstr "Watermelon"
+
+msgid "banana"
+msgstr "Banana"
+
+msgid "red bayberry"
+msgstr "Bayberry"
+
+msgid "coconut"
+msgstr "Coconut"
+
+msgid "french fries"
+msgstr "French fries"
+
+msgid "tomato"
+msgstr "Tomato"
+
+msgid "kite"
+msgstr "Kite"
+
+msgid "cube"
+msgstr "Rubik's Cube"
+
+msgid "balloon"
+msgstr "Balloon"
+
+msgid "dice"
+msgstr "Dice"
+
+msgid "whiteboard"
+msgstr "Whiteboard"
+
+msgid "ruler"
+msgstr "Ruler"
+
+msgid "stapler"
+msgstr "Stapler"
+
+msgid "calculator"
+msgstr "Calculator"
+
+msgid "business card"
+msgstr "Business card"
+
+msgid "golf ball"
+msgstr "Golf"
+
+msgid "basketball"
+msgstr "Basketball"
+
+msgid "treadmill"
+msgstr "Treadmill"
+
+msgid "table tennis racket"
+msgstr "Table tennis bat"
+
+msgid "tennis racket"
+msgstr "Tennis racket"
+

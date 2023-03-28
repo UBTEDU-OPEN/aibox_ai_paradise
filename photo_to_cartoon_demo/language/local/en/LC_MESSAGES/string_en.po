@@ -1,0 +1,48 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2021-05-24 15:35+CST\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Generated-By: pygettext.py 1.5\n"
+
+msgid "k_title"
+msgstr "Character Cartoonish"
+
+msgid "k_title_desc"
+msgstr "Based on the Generative Adversarial Network (GAN) algorithm, the corresponding cartoonish portrait is generated according to the real portrait."
+
+msgid "k_capture_tip"
+msgstr "Keep the background clean and ensure that the portrait is placed in the humanoid frame"
+
+msgid "k_save_tip"
+msgstr "Take a photo and click Generate; then you can see your cartoon image"
+
+msgid "k_make_cartoon_btn"
+msgstr "Generate"
+
+msgid "k_save_btn"
+msgstr "Save"
+
+msgid "k_check_save"
+msgstr "You have a cartoon image not saved. Please save it before taking photos."
+
+msgid "k_give_up_btn"
+msgstr "Cancel"
+
+msgid "k_no_face_tip"
+msgstr "No face detected"
+
+msgid "k_capture_again"
+msgstr "Re-take Photo"
+
+msgid "k_creating"
+msgstr "Generating..."

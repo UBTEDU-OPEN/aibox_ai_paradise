@@ -1,0 +1,37 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: onboard\n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: 2021-05-24 14:13+0800\n"
+"Last-Translator: Francesco Fumanti <Unknown>\n"
+"Language-Team: English <zh_CN@li.org>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2017-02-14 14:04+0000\n"
+"X-Generator: Poedit 2.4.2\n"
+
+msgid "k_title"
+msgstr "智能照相馆"
+
+msgid "k_title_desc"
+msgstr "基于人像分割算法，把真实图片中的人像分割出来放入不同的背景中，让人身临其境"
+
+msgid "k_save"
+msgstr "保存"
+
+msgid "k_cancel"
+msgstr "取消"
+
+msgid "k_reload"
+msgstr "重新加载"
+
+msgid "k_camera_error"
+msgstr "摄像头异常,请检查是否连接摄像头以及摄像头是否被其他应用占用"
+
+msgid "k_quit_title"
+msgstr "确定要退出吗？"
+
+msgid "k_quit"
+msgstr "退出"

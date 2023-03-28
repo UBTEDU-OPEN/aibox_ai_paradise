@@ -1,0 +1,48 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2021-05-24 15:35+CST\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Generated-By: pygettext.py 1.5\n"
+
+msgid "k_title"
+msgstr "人像卡通化"
+
+msgid "k_title_desc"
+msgstr "基于生成对抗网络算法，根据真实人像生成对应的卡通化人像"
+
+msgid "k_capture_tip"
+msgstr "保持背景干净，保证人像置入人形框内"
+
+msgid "k_save_tip"
+msgstr "拍照并点击生成，即可看到你的卡通形象噢"
+
+msgid "k_make_cartoon_btn"
+msgstr "生成"
+
+msgid "k_save_btn"
+msgstr "保存"
+
+msgid "k_check_save"
+msgstr "你有一张卡通形象未保存，请先保存再拍照"
+
+msgid "k_give_up_btn"
+msgstr "放弃"
+
+msgid "k_no_face_tip"
+msgstr "未检测到人脸"
+
+msgid "k_capture_again"
+msgstr "重拍"
+
+msgid "k_creating"
+msgstr "正在生成..."

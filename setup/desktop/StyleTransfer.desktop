@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Style Transfer
+Name[en_US]=Style Transfer
+Name[zh_CN]=风格迁移
+Exec=python3  -c  "import style_transfer_demo.style_transfer_demo as demo;demo.start()"
+Terminal=false
+Type=Application
+StartupNotify=true
+Icon=/usr/local/UBTTools/images/ai_paradise/StyleTransfer.png
+Categories=GNOME;Education;

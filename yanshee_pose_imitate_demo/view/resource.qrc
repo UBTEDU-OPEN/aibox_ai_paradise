@@ -1,0 +1,34 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/ic_close.png</file>
+        <file>images/ic_close_press.png</file>
+        <file>images/ic_demonstrate.png</file>
+        <file>images/ic_full_screen.png</file>
+        <file>images/ic_next.png</file>
+        <file>images/ic_previous.png</file>
+        <file>images/ic_step1.png</file>
+        <file>images/ic_step2.png</file>
+        <file>images/ic_successful.png</file>
+        <file>images/img_1.png</file>
+        <file>images/img_2.png</file>
+        <file>images/img_3.png</file>
+        <file>images/img_4.png</file>
+        <file>images/img_action1.png</file>
+        <file>images/img_action2.png</file>
+        <file>images/img_action3.png</file>
+        <file>images/img_action4.png</file>
+        <file>images/img_action5.png</file>
+        <file>images/img_bg.png</file>
+        <file>images/img_loading.png</file>
+        <file>images/img_logo_demonstrate.png</file>
+        <file>images/img_posture1.png</file>
+        <file>images/img_posture2.png</file>
+        <file>images/img_robot_default.png</file>
+        <file>images/img_robot_mask.png</file>
+        <file>images/img_yanshee_default.png</file>
+        <file>images/img_yanshee_link.png</file>
+        <file>images/SourceHanSansCN-Bold.otf</file>
+        <file>images/ic_fullscreen.png</file>
+        <file>images/img_action1_stand.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,18 @@
+QWidget#root{
+    border-image:url(res/imgs/img_bg.png);
+}
+QLabel#text{
+    font-family: Source Han Sans CN;
+    font-weight: normal;
+    font-size: 20px;
+    color: #FFFFFF;
+    margin-top:42px;
+    padding-bottom:2px;
+}
+QLabel#tip{
+    font-family: Source Han Sans CN;
+    font-weight: normal;
+    font-size: 14px;
+    color: #66FFFFFF;
+    margin-top:20px;
+}

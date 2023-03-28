@@ -1,0 +1,268 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: onboard\n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: 2021-05-24 14:13+0800\n"
+"Last-Translator: Francesco Fumanti <Unknown>\n"
+"Language-Team: English <zh_CN@li.org>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2017-02-14 14:04+0000\n"
+"X-Generator: Poedit 2.4.2\n"
+
+msgid "ubt_confidence_title"
+msgstr "Confidence Settings"
+
+msgid "ubt_default"
+msgstr "Defaults"
+
+msgid "ubt_confidence_tip"
+msgstr "Confidence indicates the possibility that the machine judges an object as \na result. A greater value means a higher confidence level. Confidence \nrange: 1 to 100%, which is displayed above the recognition frame after set."
+
+msgid "ubt_cancel"
+msgstr "Cancel"
+
+msgid "ubt_reload"
+msgstr "Reload"
+
+msgid "ubt_load_error"
+msgstr "The camera fails to operate normally. Please check whether \nthe camera is occupied."
+
+msgid "ubt_quit_title"
+msgstr "Are you sure you want to exit?"
+
+msgid "ubt_quit"
+msgstr "Exit"
+
+msgid "ubt_loading"
+msgstr "Loading... Please wait."
+
+msgid "ubt_sure"
+msgstr "OK"
+
+msgid "ubt_know"
+msgstr "Got it"
+
+msgid "ubt_unknown"
+msgstr "Unknown"
+
+msgid "ubt_style_transfer_title"
+msgstr "Style Transfer"
+
+msgid "ubt_style_transfer_subtitle"
+msgstr "Based on the GAN algorithm, style transfer generates different types of landscapes \naccording to the colors, shapes, and target styles of graffiti color blocks."
+
+msgid "ubt_style_transfer_dialog_tip"
+msgstr "Switching the current screen will lose the record. \nAre you sure you want to switch?"
+
+msgid "ubt_style_load_model"
+msgstr "Loading the model..."
+
+msgid "ubt_style_generate"
+msgstr "Generating..."
+
+msgid "ubt_style_preview"
+msgstr "Preview Area"
+
+msgid "ubt_style_export"
+msgstr "Export"
+
+msgid "ubt_style_file_save"
+msgstr "Save File"
+
+msgid "ubt_style_copy"
+msgstr "Copy"
+
+msgid "ubt_style_transfer"
+msgstr "Style"
+
+msgid "ubt_style_produce"
+msgstr "Generate"
+
+msgid "ubt_style_original_img"
+msgstr "Original Graph"
+
+msgid "ubt_cartoon_title"
+msgstr "Character Cartoonish"
+
+msgid "ubt_yanshee_pose_imitate_title"
+msgstr "Yanshee pose imitation"
+
+msgid "ubt_yanshee_pose_imitate_subtitle"
+msgstr "Body landmarks are detected and pose is estimated based on the AI box deep learning model, the direction and angle of body movement are analyzed, \nand the pose landmark information is sent to Yanshee robot for pose simulation through LAN communication."
+
+msgid "ubt_yanshee_pose_step_one"
+msgstr "<div style='font-size:18px;padding:80px;'><span>Step 1: Connect one or more Yanshee robots to the <a style='color:#08f4f8' href=\"hotspot\">hotspot</a> of AI box.</span></div>"
+
+msgid "ubt_yanshee_pose_step_two"
+msgstr "Step 2: Initialize Yanshee actions."
+
+msgid "ubt_yanshee_pose_motion_text"
+msgstr "Initialize the program after connecting to the robot."
+
+msgid "ubt_yanshee_pose_full_screen_demo"
+msgstr "Full screen demonstration"
+
+msgid "ubt_yanshee_pose_motion_initial"
+msgstr "Perform initialization"
+
+msgid "ubt_yanshee_pose_motion_loading"
+msgstr "Loading..."
+
+msgid "ubt_yanshee_pose_motion_initialing"
+msgstr "Please keep the pose."
+
+msgid "ubt_yanshee_pose_motion_initial_finish"
+msgstr "Initialization completed"
+
+msgid "ubt_yanshee_pose_motion_initial_tip"
+msgstr "If the action imitation is inaccurate, please reset"
+
+msgid "ubt_yanshee_pose_motion_reset"
+msgstr "Reset"
+
+msgid "ubt_yanshee_pose_devices_loss_alert"
+msgstr "Yanshee is disconnected. Please try again."
+
+msgid "ubt_yanshee_pose_motion_title"
+msgstr "Please pose in front of the camera: \nKeep your arms straight and stand in an A-shape."
+
+msgid "ubt_yanshee_pose_guide_tip1"
+msgstr "1.1 Connect the screen (HDMI) to the AI box; \n1.2 Connect the keyboard and mouse (USB) to the AI box; \n1.3 Select Start > Tools > Hotspot Settings on the interface to turn on the AI box hotspot \nfor connection to Yanshee;"
+
+msgid "ubt_yanshee_pose_guide_tip2"
+msgstr "2.1 Connect the screen (HDMI) to the Yanshee; \n2.2 Connect the keyboard and mouse (USB) to Yanshee so as to connect to the AI box \nhotspot on the interface;"
+
+msgid "ubt_yanshee_pose_guide_tip3"
+msgstr "3.1 Click the network portal on the Yanshee system interface; \n3.2 Find the hotspot name of AI box, click it, and enter the password for connection;"
+
+msgid "ubt_yanshee_pose_guide_tip4"
+msgstr "4.1 Connect the screen (HDMI) to the AI box; \n4.2 Connect the keyboard and mouse (USB) to the AI box; \n4.3 Select Desktop > AI Paradise > Yanshee Pose Imitation to perform the next operation. "
+
+msgid "ubt_yanshee_hotspot_set"
+msgstr "Hotspot Settings"
+
+
+msgid "ubt_loading_tip1"
+msgstr "The neural network technology originated in the 1950s and 1960s, when it was called perceptron, which consisted of the input layer, output layer, and hidden layer."
+
+msgid "ubt_loading_tip2"
+msgstr "Artificial intelligence (AI) emerged in the 1950s. It is a new technical science of studying and developing theories, methods, technologies, and application systems for simulating, extending, and expanding human intelligence."
+
+msgid "ubt_loading_tip3"
+msgstr "In 1983, John Hopfield used the neural network to achieve the best result in the Non-deterministic Polynomial (NP) complete problem of travel agency issue, causing a sensation."
+
+msgid "ubt_loading_tip4"
+msgstr " In the ImageNet image classification challenge in 2012, the deep learning model AlexNet won the championship. Since then, the deep convolution neural network (CNN) has become the preferred algorithm for all computer vision tasks."
+
+msgid "ubt_loading_tip5"
+msgstr "In neural networks, the model parameters usually need to be initialized randomly, and then the model parameters are learned through the back propagation algorithm."
+
+msgid "ubt_loading_tip6"
+msgstr "Compared with the traditional methods, the most significant advantage of deep learning is automatic feature extraction. Therefore, it showcases a more efficient and accurate expression of data sets, stronger robustness of the extracted abstract features, and better generalization ability."
+
+msgid "ubt_loading_tip7"
+msgstr "To improve the generalization ability of the model, data augmentation is usually implemented on the training data, e.g., flipping and rotation."
+
+msgid "ubt_loading_tip8"
+msgstr "Common frameworks for deep learning include PyTorch, TensorFlow, Keras, Caffe, and so on. For novices, Keras may be the best choice because the API it encapsulates is more abstract and advanced."
+
+msgid "ubt_loading_tip9"
+msgstr "The recurrent neural network (RNN) is a kind of neural network model used to process sequence data. It is frequently applied to the field of natural language processing and is also used for all kinds of time series prediction."
+
+msgid "ubt_loading_tip10"
+msgstr " Long and short term memory networks (LSTMs) can control when to allow the input to enter the neuron, when to remember what is learned in the previous time sequence, and when to pass the output to the next time stamp."
+
+msgid "ubt_loading_tip11"
+msgstr "Transfer learning is a method of machine learning, which means that a pre-trained model is reused in another task, enabling you to accelerate modeling of the second task or improve its performance."
+
+msgid "ubt_loading_tip12"
+msgstr "Python is a high-level programming language with interpretive, object-oriented, and dynamic data types, which is widely used for popular machine learning, big data analysis, and Internet worms nowadays."
+
+msgid "ubt_loading_tip13"
+msgstr "Update of Python 2 stopped on January 1, 2020. Therefore, you all are advised to use Python 3 to write programs."
+
+msgid "ubt_loading_tip14"
+msgstr "In Python 2. X, “/” (division) is used, the result of integer division is an integer, and the decimal part is completely ignored. For example, the result of 5/3 is 1."
+
+msgid "ubt_loading_tip15"
+msgstr "In Python 3.x, “/” (division) is used. Different from Python 2. X, the results of its division between integers are floating point numbers. For example, the result of 5/3 is 1.66666666667."
+
+msgid "ubt_loading_tip16"
+msgstr "The implementation of many modern neural networks is based on GPU, which was originally a special hardware component developed for graphics applications. Therefore, the neural network benefits from the development of the game industry."
+
+msgid "ubt_loading_tip17"
+msgstr "CPU is like a college student. It can fix a surface integral problem in 10 minutes, but can't finish 1000 hundred digit addition problems in 10 minutes. GPU is like 100 primary school students, who can complete 1000 hundred digit addition problems in 10 minutes."
+
+msgid "ubt_loading_tip18"
+msgstr "The conventional face recognition process is as follows: face detection - face alignment - facial features extraction - facial features comparison."
+
+msgid "ubt_loading_tip19"
+msgstr "The task of image classification is to judge whether the object in the image is object A. The target detection task means that we should not only use the algorithm to judge whether there is object A in the image, but also find out its position in the picture, that is, its bounding box."
+
+msgid "ubt_loading_tip20"
+msgstr "The task of semantic segmentation is to segment an image into area blocks with certain semantic meaning using fixed methods, recognize the semantic category of each area block, achieve the semantic reasoning process from the bottom to the top, and finally get a segmented image with pixel-by-pixel semantic annotation."
+
+msgid "ubt_loading_tip21"
+msgstr "Currently semantic segmentation has been applied to the fields such as geographic information system, unmanned driving, medical image analysis, and robot."
+
+msgid "ubt_loading_tip22"
+msgstr "The difference between over fitting and under fitting is that under fitting shows poor performance in both the training set and test set, while over fitting can often better learn the properties of training set data, but shows poor performance in the test set."
+
+msgid "ubt_loading_tip23"
+msgstr "Turing test means that the computer answers a series of questions raised by a human tester within 5 minutes. If more than 30% of its answers enable the tester to mistakenly believe that they are answered by human beings, the computer passes the test."
+
+msgid "ubt_loading_tip24"
+msgstr "GAN is a method of unsupervised learning, which implements learning by making two neural networks compete with each other."
+
+msgid "ubt_loading_tip25"
+msgstr "The year 2006 is known as the first year of deep learning. This year Jeffrey Hinton and his student Ruslan Salakhutdinov formally put forward the concept of deep learning. Jeffrey Hinton is called the father of deep learning because of this."
+
+msgid "ubt_loading_tip26"
+msgstr "On March 27, 2019, American Computer Association (ACM) announced that Yoshua Bengio, Yann LeCun, and Geoffrey Hinton, known as the \"three giants of deep learning\", jointly won the Turing Award of 2018."
+
+msgid "ubt_loading_tip27"
+msgstr "The full name of BERT launched by Google in 2018 is Bidirectional Encoder Representation from Transformers, which is a pre-trained language representation model."
+
+msgid "ubt_loading_tip28"
+msgstr "In 1969, it was pointed out that single-layer neural networks could not solve nonlinear problems, and no hope could be seen from the training of multi-layer networks at that time. This conclusion caused the research into a neural network to enter the ice age."
+
+msgid "ubt_loading_tip29"
+msgstr "The main reasons that deep learning rose again in 2010 are as follows: 1. The improvement of hardware, especially the development of GPU, greatly accelerated the matrix operation; 2. Large-scale data sets emerged; 3. The training algorithm was improved."
+
+msgid "ubt_loading_tip30"
+msgstr "Deep learning for recognition features high accuracy, and the process of feature extraction is a self-learning process with a powerful generalization ability, but it requires a lot of annotation data to train and has high requirements for hardware."
+
+
+
+msgid "ubt_style_loading_tip1"
+msgstr "The core idea of generative adversarial network (GAN) comes from the zero-sum game, and it consists of the generator and discriminator."
+
+msgid "ubt_style_loading_tip2"
+msgstr "The generator receives random variables and generates \"false\" samples, and the discriminator judges whether the input samples are real or synthetic. The two improve each other's performance through mutual confrontation."
+
+msgid "ubt_style_loading_tip3"
+msgstr "Two models are trained simultaneously in GAN: the generative model G for capturing data distribution and the discriminative model D for estimating the probability of samples from training data."
+
+msgid "ubt_style_loading_tip4"
+msgstr "Style transfer is an interesting topic in computer vision. It is used in our daily life. For example, style transfer technology is hidden behind all kinds of filters in our commonly used beauty tools."
+
+msgid "ubt_style_loading_tip5"
+msgstr "Style transfer means that the style of Figure A is transferred to Figure B, that is, Figure C with the style of Figure A and the content of Figure B is generated."
+
+msgid "ubt_style_loading_tip6"
+msgstr "The image style transfer based on the neural network was proposed in two papers written by Gatys et al. in 2015, where the neural network was for style transfer for the first time in the world."
+
+msgid "ubt_style_loading_tip7"
+msgstr "In the International Conference on Computer Vision (ICCV) in 2017, Adaptive Instance Normalization (AdaIN) was put forward, realizing the transfer of any style."
+
+msgid "ubt_style_loading_tip8"
+msgstr "In 2016, instance normalization was proposed in the paper named Instance Normalization: The Missing Ingredient for Fast Stylization, which significantly improved the results."
+
+msgid "ubt_style_loading_tip9"
+msgstr "SANet aims to improve the transfer adequacy of AdaIN in style. The author put forward the view that the style attention network replaces adaptive instance normalization to complete style transfer."
+
+msgid "ubt_style_loading_tip10"
+msgstr "Some people proposed that the training process of image transformation net should be replaced with the hyper network in the meta learning method."

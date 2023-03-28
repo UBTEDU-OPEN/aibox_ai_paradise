@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/backgroud.png</file>
+        <file>resources/video_mask.png</file>
+        <file>resources/ic_close.png</file>
+        <file>resources/ic_close_press.png</file>
+        <file>resources/ic_close_blue.png</file>
+        <file>resources/logo.png</file>
+        <file>resources/img_block.png</file>
+        <file>resources/ic_camera.png</file>
+        <file>resources/ic_camera_disable.png</file>
+        <file>resources/cor_mask.png</file>
+        <file>resources/img_block2.png</file>
+        <file>resources/ic_save.png</file>
+        <file>resources/ic_save_disable.png</file>
+        <file>resources/ic_create.png</file>
+        <file>resources/ic_create_disable.png</file>
+        <file>resources/img_mask.png</file>
+        <file>resources/ic_trash.png</file>
+        <file>resources/camera_mask.png</file>
+        <file>resources/result_default.png</file>
+        <file>resources/ic_trash_p.png</file>
+        <file>resources/cartoon_string_configure.ini</file>
+        <file>resources/ic_create_small.png</file>
+        <file>resources/ic_save_small.png</file>
+    </qresource>
+</RCC>

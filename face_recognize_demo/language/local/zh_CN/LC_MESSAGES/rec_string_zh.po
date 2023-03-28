@@ -1,0 +1,98 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2021-05-24 15:35+CST\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Generated-By: pygettext.py 1.5\n"
+
+msgid "k_title"
+msgstr "无感人脸打卡"
+
+msgid "k_title_desc"
+msgstr "无感打卡基于人脸识别算法，将样本和实时人脸进行快速比对，并输出比对结果与实践，可用于身份验证"
+
+msgid "k_face_sample"
+msgstr "人脸样本库"
+
+msgid "k_input_face"
+msgstr "录入人脸"
+
+msgid "k_record"
+msgstr "打卡记录"
+
+msgid "k_zero_smaple_tip"
+msgstr "人脸样本库为空"
+
+msgid "k_input_illegal_str"
+msgstr "请勿输入非法字符"
+
+msgid "k_clear_smaple_failer"
+msgstr "人脸样本库清空失败"
+
+msgid "k_input_name_repeat"
+msgstr "名字重复\n请重新输入"
+
+msgid "k_add_success"
+msgstr "录入成功"
+
+msgid "k_clear_smaple_success"
+msgstr "人脸样本库已清空"
+
+msgid "k_input_same_photo"
+msgstr "人脸照片已存在\n请勿重复录入"
+
+msgid "k_clear_all"
+msgstr "全部清空"
+
+msgid "k_clear_tip"
+msgstr "清空人脸信息将不可找回，\n确定要全部清空吗？"
+
+msgid "k_max_clear"
+msgstr "已达到添加上限"
+
+msgid "k_input_failer"
+msgstr "录入失败，请重新拍照"
+
+msgid "k_ok"
+msgstr "好的"
+
+msgid "k_no_face"
+msgstr "未识别到人脸，请重新拍照"
+
+msgid "k_cancel"
+msgstr "取消"
+
+msgid "k_photograph_tip"
+msgstr "请在人形框变为绿色时拍照"
+
+msgid "k_photograph"
+msgstr "拍照"
+
+msgid "k_input_name_tip"
+msgstr "名字"
+
+msgid "k_enter"
+msgstr "录入"
+
+msgid "k_threshold_title"
+msgstr "置信度设置"
+
+msgid "k_thresold_default_desc"
+msgstr "默认值"
+
+msgid "k_thresold_tip"
+msgstr "置信度表示机器判断物体为某结果的可能性，数值越大，可信度越高。\n置信度范围：1-100%，设置后可显示于识别框上方。"
+
+msgid "k_count"
+msgstr "个"
+
+

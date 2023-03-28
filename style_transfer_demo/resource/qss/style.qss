@@ -1,0 +1,44 @@
+QLabel#card_icon{
+    margin-top:50px;
+}
+QLabel#top_title{
+    font-family: Source Han Sans CN;
+    font-weight: bold;
+    font-size: 36px;
+    color: #FFFFFF;
+    line-height: 48px;
+    padding-bottom:3px;
+}
+QLabel#sub_title{
+    font-family: Source Han Sans CN;
+    font-weight: normal;
+    font-size: 18px;
+    color: #787A93;
+    margin-top:20px;
+    line-height: 20px;
+    padding-bottom:2px;
+}
+QWidget#operate{
+    background-color:#665B6995;
+    border-radius: 8px;
+}
+QWidget#preview{
+    margin-top:20px;
+    margin-bottom:20px;
+}
+
+QWidget#draw{
+    background-color:#665B6995;
+    border-radius: 8px;
+}
+QWidget#result{
+    background-color:#665B6995;
+    border-radius: 8px;
+}
+
+QLabel#btn_close{
+    width: 42px;
+    height: 42px;
+    margin-right:60px;
+    margin-top:60px;
+}

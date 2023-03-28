@@ -1,0 +1,122 @@
+QLabel#card_icon{
+    /*border-image:url(imgs/img_logo.png)*/
+    margin-top:15px;
+}
+QFrame#main{
+    margin-left:40px;
+}
+QLabel#title{
+    font-family: Source Han Sans CN;
+    font-weight: bold;
+    font-size: 36px;
+    color: #FFFFFF;
+    line-height: 48px;
+}
+QLabel#sub_title{
+    font-family: Source Han Sans CN;
+    font-weight: normal;
+    font-size: 18px;
+    color: #787A93;
+    margin-top:20px;
+    margin-bottom:64px;
+    line-height: 20px;
+}
+QLabel#camera{
+    background-color:#665B6995;
+    border-radius: 8px;
+}
+QLabel#describe{
+    font-family: Source Han Sans CN;
+    font-weight: bold;
+    font-size: 20px;
+    color: #FFFFFF;
+    line-height: 20px;
+    margin-top:44px;
+    margin-bottom:18px;
+}
+QLabel#select_item_name{
+    font-family: Source Han Sans CN;
+    font-weight: normal;
+    font-size: 14px;
+    color: #FFFFFF;
+    text-align: center;
+    line-height: 20px;
+    margin-top:5px;
+}
+QFrame#line{
+    margin-top:0px;
+}
+
+QWidget#threshold_layout_2{
+    line-height: 48px;
+    background-color:#4F5A7E;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    padding-left: 20px;
+    padding-top: 13px;
+    padding-bottom: 13px;
+}
+
+QLabel#threshold_label{
+    font-family: Source Han Sans CN;
+    font-weight: bold;
+    font-size: 48px;
+    color: #FFFFFF;
+    line-height: 48px;
+    background-color:#4F5A7E;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    padding-left: 20px;
+}
+QLabel#threshold_txt{
+    font-family: Source Han Sans CN;
+    font-weight: bold;
+    font-size: 24px;
+    color: #FFFFFF;
+}
+QFrame#threshold{
+    background-color:#665B6995;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+    padding-left:15px;
+    padding-right:15px;
+}
+QLabel#select_goods_label{
+    font-family: Source Han Sans CN;
+    font-weight: bold;
+    font-size: 24px;
+    color: #FFFFFF;
+    line-height: 48px;
+    background-color:#4F5A7E;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    padding-left: 20px;
+    padding-top: 13px;
+    padding-bottom: 13px;
+    margin-top:20px;
+}
+QLabel#goods_item{
+    font-family: Source Han Sans CN;
+    font-weight: bold;
+    font-size: 18px;
+    color: #FFFFFF;
+    line-height: 48px;
+}
+
+QWidget#horizontalFrame{
+    border-image:url(res/imgs/img_bg.png);
+    padding-right:54px;
+    padding-top:34px;
+}
+QWidget#select_goods_list{
+    background-color:#665B6995;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+    padding-bottom:10px;
+}
+
+/*QLabel#btn_close{
+    image: url(res/imgs/ic_close.png);
+    width: 42px;
+    height: 42px;
+}*/

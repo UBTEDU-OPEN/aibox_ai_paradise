@@ -1,0 +1,37 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: onboard\n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: 2021-05-24 14:13+0800\n"
+"Last-Translator: Francesco Fumanti <Unknown>\n"
+"Language-Team: English <zh_CN@li.org>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2017-02-14 14:04+0000\n"
+"X-Generator: Poedit 2.4.2\n"
+
+msgid "k_title"
+msgstr "Intelligent Photo Studio"
+
+msgid "k_title_desc"
+msgstr "Based on the portrait segmentation algorithm, the portrait in the real image is segmented and put into different backgrounds, making people feel present on the scene."
+
+msgid "k_save"
+msgstr "Save"
+
+msgid "k_cancel"
+msgstr "Cancel"
+
+msgid "k_reload"
+msgstr "Reload"
+
+msgid "k_camera_error"
+msgstr "The camera fails to operate normally. \nPlease check whether the camera is connected, \nand whether the camera is occupied by other applications."
+
+msgid "k_quit_title"
+msgstr "Are you sure you want to exit?"
+
+msgid "k_quit"
+msgstr "Exit"

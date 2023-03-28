@@ -1,0 +1,96 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2021-05-24 15:35+CST\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Generated-By: pygettext.py 1.5\n"
+
+msgid "k_title"
+msgstr "Intelligent Criminal Investigation Tracking"
+
+msgid "k_title_desc"
+msgstr "Intelligent criminal investigation tracking is based on the face recognition algorithm. The sample is quickly compared with the real-time face, and the comparison result and practice are output. This function can be used for criminal authentication to rapidly achieve positioning and arrest criminals."
+
+msgid "k_face_sample"
+msgstr "Face Sample Library"
+
+msgid "k_input_face"
+msgstr "Enter Face"
+
+msgid "k_record"
+msgstr "Suspect Recognition Record"
+
+msgid "k_zero_smaple_tip"
+msgstr "The face sample library is empty"
+
+msgid "k_input_illegal_str"
+msgstr "Do not enter invalid characters."
+
+msgid "k_clear_smaple_failer"
+msgstr "Failed to clear the face sample library"
+
+msgid "k_input_name_repeat"
+msgstr "Duplicate name. \nPlease re-enter."
+
+msgid "k_add_success"
+msgstr "Entered successfully"
+
+msgid "k_clear_smaple_success"
+msgstr "The face sample library has been cleared"
+
+msgid "k_input_same_photo"
+msgstr "The face photo already exists\nDo not enter it again."
+
+msgid "k_clear_all"
+msgstr "Clear All"
+
+msgid "k_clear_tip"
+msgstr "The cleared face information cannot be retrieved.Are you sure you want to clear all?"
+
+msgid "k_max_clear"
+msgstr "The upper limit of adding has been reached."
+
+msgid "k_input_failer"
+msgstr "Failed to enter. Please take a photo again."
+
+msgid "k_ok"
+msgstr "OK"
+
+msgid "k_no_face"
+msgstr "Failed to recognize a face. Please take a photo again."
+
+msgid "k_cancel"
+msgstr "Cancel"
+
+msgid "k_photograph_tip"
+msgstr "Please shoot when the humanoid frame turns green"
+
+msgid "k_photograph"
+msgstr "Photograph"
+
+msgid "k_input_name_tip"
+msgstr "Name"
+
+msgid "k_enter"
+msgstr "Enter"
+
+msgid "k_threshold_title"
+msgstr "Confidence Settings"
+
+msgid "k_thresold_default_desc"
+msgstr "Defaults"
+
+msgid "k_thresold_tip"
+msgstr "Confidence indicates the possibility that the machine judges an object as a result. A greater value means a higher confidence level. \nConfidence range: 1 to 100%, which is displayed above the recognition frame after set."
+
+msgid "k_count"
+msgstr "in total"
